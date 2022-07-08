@@ -10,6 +10,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5956701c92ec47bc98145555cd08eafca23890/19/2b54f466/EventArgs.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5956701c92ec47bc98145555cd08eafca23890/d7/678eadda/EventHandler`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5956701c92ec47bc98145555cd08eafca23890/ff/0a29919f/Boolean.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e7e231682be8652744726acc6de35323daa68061429db55e0c251114902f60/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Chapter05_ValAndRef/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Chapter07_Const_Field/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Chapter11_Event/MailManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -24,17 +26,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected=".NET Static Method.Chapter06_Type_members.Program.Main">
-    <configuration name="Chapter00_Test.Class1.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+}</component>
+  <component name="RunManager" selected=".NET Static Method.Chapter10_property.Program.Main">
+    <configuration name="Chapter00_Test.forforfor.ha" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
       <option name="EXE_PATH" value="D:\JetBrains Rider 2022.1.2\lib\ReSharperHost\JetLauncherILc.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -44,8 +46,8 @@
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter00_Test/Chapter00_Test.csproj" />
       <option name="PROJECT_TFM" value="net6.0" />
-      <option name="CLASS_NAME" value="Chapter00_Test.Class1" />
-      <option name="METHOD_NAME" value="Main" />
+      <option name="CLASS_NAME" value="Chapter00_Test.forforfor" />
+      <option name="METHOD_NAME" value="ha" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -66,7 +68,7 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="Chapter5_ValAndRef.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+    <configuration name="Chapter08_Method_FenBuFangFaPart2.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
       <option name="EXE_PATH" value="D:\JetBrains Rider 2022.1.2\lib\ReSharperHost\JetLauncherILc.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -74,9 +76,41 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter05_ValAndRef/Chapter05_ValAndRef.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter08_Method/Chapter08_Method.csproj" />
       <option name="PROJECT_TFM" value="net6.0" />
-      <option name="CLASS_NAME" value="Chapter5_ValAndRef.Program" />
+      <option name="CLASS_NAME" value="Chapter08_Method_FenBuFangFaPart2.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Chapter08_Method.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="D:\JetBrains Rider 2022.1.2\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter08_Method/Chapter08_Method.csproj" />
+      <option name="PROJECT_TFM" value="net6.0" />
+      <option name="CLASS_NAME" value="Chapter08_Method.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Chapter10_property.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="D:\JetBrains Rider 2022.1.2\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter10_property/Chapter10_property.csproj" />
+      <option name="PROJECT_TFM" value="net6.0" />
+      <option name="CLASS_NAME" value="Chapter10_property.Program" />
       <option name="METHOD_NAME" value="Main" />
       <method v="2">
         <option name="Build" />
@@ -84,9 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Static Method.Chapter10_property.Program.Main" />
+        <item itemvalue=".NET Static Method.Chapter08_Method_FenBuFangFaPart2.Program.Main" />
+        <item itemvalue=".NET Static Method.Chapter00_Test.forforfor.ha" />
+        <item itemvalue=".NET Static Method.Chapter08_Method.Program.Main" />
         <item itemvalue=".NET Static Method.Chapter06_Type_members.Program.Main" />
-        <item itemvalue=".NET Static Method.Chapter00_Test.Class1.Main" />
-        <item itemvalue=".NET Static Method.Chapter5_ValAndRef.Program.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +137,14 @@
       <workItem from="1656579441824" duration="2765000" />
       <workItem from="1656583902393" duration="2945000" />
       <workItem from="1656640607134" duration="16397000" />
+      <workItem from="1656904140885" duration="1488000" />
+      <workItem from="1656926201554" duration="1879000" />
+      <workItem from="1656928511400" duration="788000" />
+      <workItem from="1657009951705" duration="3385000" />
+      <workItem from="1657078148997" duration="2402000" />
+      <workItem from="1657103278479" duration="671000" />
+      <workItem from="1657181826584" duration="5348000" />
+      <workItem from="1657265308177" duration="6987000" />
     </task>
     <servers />
   </component>

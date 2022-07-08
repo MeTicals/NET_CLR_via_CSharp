@@ -35,3 +35,20 @@ public class class2
         Console.WriteLine("成员方法");
     }
 }
+
+public static class forforfor
+{
+    public static void ha()
+    {
+        int i = 0;
+        for (i = 0; i < 5; i++)
+        {
+            if (i == 4)
+            {
+                break;
+            }
+        }
+        Console.WriteLine(i);
+    }
+}
+
